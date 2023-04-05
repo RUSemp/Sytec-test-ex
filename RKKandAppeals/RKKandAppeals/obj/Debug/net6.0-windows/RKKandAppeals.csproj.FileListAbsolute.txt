@@ -1,0 +1,17 @@
+E:\Work direction\RKKandAppeals\RKKandAppeals\bin\Debug\net6.0-windows\RKKandAppeals.exe
+E:\Work direction\RKKandAppeals\RKKandAppeals\bin\Debug\net6.0-windows\RKKandAppeals.deps.json
+E:\Work direction\RKKandAppeals\RKKandAppeals\bin\Debug\net6.0-windows\RKKandAppeals.runtimeconfig.json
+E:\Work direction\RKKandAppeals\RKKandAppeals\bin\Debug\net6.0-windows\RKKandAppeals.dll
+E:\Work direction\RKKandAppeals\RKKandAppeals\bin\Debug\net6.0-windows\RKKandAppeals.pdb
+E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.csproj.AssemblyReference.cache
+E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.Form1.resources
+E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.csproj.GenerateResource.cache
+E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.AssemblyInfoInputs.cache
+E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.AssemblyInfo.cs
+E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.csproj.CoreCompileInputs.cache
+E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.dll
+E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\refint\RKKandAppeals.dll
+E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.pdb
+E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.genruntimeconfig.cache
+E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\ref\RKKandAppeals.dll
