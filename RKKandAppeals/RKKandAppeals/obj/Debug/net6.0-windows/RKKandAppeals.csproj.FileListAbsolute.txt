@@ -15,3 +15,20 @@ E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\refint\RK
 E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.pdb
 E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.genruntimeconfig.cache
 E:\Work direction\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\ref\RKKandAppeals.dll
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\bin\Debug\net6.0-windows\RKKandAppeals.exe
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\bin\Debug\net6.0-windows\RKKandAppeals.deps.json
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\bin\Debug\net6.0-windows\RKKandAppeals.runtimeconfig.json
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\bin\Debug\net6.0-windows\RKKandAppeals.dll
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\bin\Debug\net6.0-windows\RKKandAppeals.pdb
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.csproj.AssemblyReference.cache
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.Form1.resources
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.csproj.GenerateResource.cache
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.AssemblyInfoInputs.cache
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.AssemblyInfo.cs
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.csproj.CoreCompileInputs.cache
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.dll
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\refint\RKKandAppeals.dll
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.pdb
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\RKKandAppeals.genruntimeconfig.cache
+E:\GIThub\Sytec-test-ex\RKKandAppeals\RKKandAppeals\obj\Debug\net6.0-windows\ref\RKKandAppeals.dll

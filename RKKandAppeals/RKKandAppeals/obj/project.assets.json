@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Work direction\\RKKandAppeals\\RKKandAppeals\\RKKandAppeals.csproj",
+      "projectUniqueName": "E:\\GIThub\\Sytec-test-ex\\RKKandAppeals\\RKKandAppeals\\RKKandAppeals.csproj",
       "projectName": "RKKandAppeals",
-      "projectPath": "E:\\Work direction\\RKKandAppeals\\RKKandAppeals\\RKKandAppeals.csproj",
+      "projectPath": "E:\\GIThub\\Sytec-test-ex\\RKKandAppeals\\RKKandAppeals\\RKKandAppeals.csproj",
       "packagesPath": "C:\\Users\\poh-n\\.nuget\\packages\\",
-      "outputPath": "E:\\Work direction\\RKKandAppeals\\RKKandAppeals\\obj\\",
+      "outputPath": "E:\\GIThub\\Sytec-test-ex\\RKKandAppeals\\RKKandAppeals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

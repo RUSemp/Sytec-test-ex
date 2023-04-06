@@ -72,7 +72,7 @@ namespace RKKandAppeals
                 {
                     while(!sr.EndOfStream)
                     {
-                        content = sr.ReadLine().Split(' ', '\t');
+                        content = sr.ReadLine().Split(' ', '\t', ';');
 
                         if (content[0] == "Климов")
                         {
@@ -132,7 +132,7 @@ namespace RKKandAppeals
                 {
                     while (!sr.EndOfStream)
                     {
-                        content = sr.ReadLine().Split(' ', '\t');
+                        content = sr.ReadLine().Split(' ', '\t', ';');
 
                         if (content[0] == "Климов")
                         {
@@ -257,27 +257,28 @@ namespace RKKandAppeals
             {
                 filename = saveFile.FileName;
             }
-            
-
-            using(StreamWriter sw = new StreamWriter(filename))
+            if(filename != string.Empty)
             {
-                sw.WriteLine("          Справка о РКК и обращениях граждан\n");
-                sw.WriteLine("Не исполнено в срок {0} документовб из них:\n", allDocuments);
-                sw.WriteLine(" - Количество РКК: {0};\n", allRKK);
-                sw.WriteLine(" - Количество обращений: {0}.\n", allAppeals);
-                sw.WriteLine("Сортировка: " + sortMethod + "\n");
-
-                sw.WriteLine(" № | Ответственный исполнитель | РКК | Обращения | Все док-ты |");
-
-                for(int i = 0; i < docs.Count; i++)
+                using (StreamWriter sw = new StreamWriter(filename))
                 {
-                    sw.WriteLine("{0,3}|{1,27}|{2,5}|{3,11}|{4,12}|", (i + 1), docs[i].nameResp, docs[i].rkk, docs[i].appeals, docs[i].allDocs);
-                }
-                sw.WriteLine("\n\n");
-                sw.Write("Дата составления справки: ");
+                    sw.WriteLine("          Справка о РКК и обращениях граждан\n");
+                    sw.WriteLine("Не исполнено в срок {0} документовб из них:\n", allDocuments);
+                    sw.WriteLine(" - Количество РКК: {0};\n", allRKK);
+                    sw.WriteLine(" - Количество обращений: {0}.\n", allAppeals);
+                    sw.WriteLine("Сортировка: " + sortMethod + "\n");
 
-                DateTime dateTime = DateTime.UtcNow.Date;
-                sw.WriteLine(dateTime.ToString("dd/MM/yyyy"));
+                    sw.WriteLine(" № | Ответственный исполнитель | РКК | Обращения | Все док-ты |");
+
+                    for (int i = 0; i < docs.Count; i++)
+                    {
+                        sw.WriteLine("{0,3}|{1,27}|{2,5}|{3,11}|{4,12}|", (i + 1), docs[i].nameResp, docs[i].rkk, docs[i].appeals, docs[i].allDocs);
+                    }
+                    sw.WriteLine("\n\n");
+                    sw.Write("Дата составления справки: ");
+
+                    DateTime dateTime = DateTime.UtcNow.Date;
+                    sw.WriteLine(dateTime.ToString("dd/MM/yyyy"));
+                }
             }
         }
     }
